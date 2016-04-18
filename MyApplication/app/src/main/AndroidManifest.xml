@@ -26,6 +26,10 @@
             android:name=".page2"
             android:label="@string/app_name">
         </activity>
+        <activity
+            android:name=".page3"
+            android:label="@string/app_name">
+        </activity>
     </application>
 
 </manifest>
